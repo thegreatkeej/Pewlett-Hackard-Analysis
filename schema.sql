@@ -48,3 +48,4 @@ CREATE TABLE titles (
   	PRIMARY KEY (emp_no)
 );
 SELECT * FROM departments;
+
